@@ -6,8 +6,7 @@ Api documentation generated using the [apidoc](http://apidocjs.com/) tool
 
     npm install apidoc -g
 
-#### put the example.js file from this repository in a directory called my_project
-### run the following from your my_project directory:
+### run:
 
         apidoc
 #### view the index.html that gets generated in the 'docs' directory
